@@ -5,6 +5,19 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSystem", "NetSystem\NetSystem.csproj", "{B797BBAC-F79D-45D4-B5E3-9E951D616740}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{6C66FCB5-4E4D-47BF-8B42-783DD3AFE3CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{BAD4E163-31E9-40B2-B3CD-5E7B44F2C492}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1 = PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{B263C6B9-CD23-4CDC-B025-0B602C6DD7A0}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Templates\NetSystem.json = PublishScripts\Templates\NetSystem.json
+		PublishScripts\Templates\NetSystem.param.dev.json = PublishScripts\Templates\NetSystem.param.dev.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +31,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAD4E163-31E9-40B2-B3CD-5E7B44F2C492} = {6C66FCB5-4E4D-47BF-8B42-783DD3AFE3CC}
+		{B263C6B9-CD23-4CDC-B025-0B602C6DD7A0} = {6C66FCB5-4E4D-47BF-8B42-783DD3AFE3CC}
 	EndGlobalSection
 EndGlobal

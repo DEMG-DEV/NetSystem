@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "NettSystem"
+  },
+  "hostingPlanName": {
+    "value": "NetSystem"
+  },
+  "siteLocation": {
+    "value": "South Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "dd987474-8596-4aa5-b80f-48f61d5f8e2b"
+  },
+  "resourceGroup": {
+    "value": "NetSystem"
+  }
+}
