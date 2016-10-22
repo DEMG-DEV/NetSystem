@@ -57,14 +57,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <asp:Image ID="Image1" runat="server" Width="50px" ImageUrl="~/images/logo.png" CssClass="logo" />
                     <a class="navbar-brand" runat="server" href="~/">Net-System</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Inicio</a></li>
-                        <li><a runat="server" href="~/Courses">Diplomados</a></li>
-                        <li><a runat="server" href="~/Develop">Desarrollo</a></li>
-                        <li><a runat="server" href="~/Contact">Contacto</a></li>
+                        <li><a runat="server" href="Default.aspx">Inicio</a></li>
+                        <li><a runat="server" href="Courses.aspx">Diplomados</a></li>
+                        <li><a runat="server" href="Develop.aspx">Desarrollo</a></li>
+                        <li><a runat="server" href="Contact.aspx">Contacto</a></li>
                     </ul>
                 </div>
             </div>

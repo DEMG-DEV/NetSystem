@@ -29,3 +29,19 @@ textarea {
         padding: 0;
     }
 }
+
+.logo {
+    margin-top: 5px;
+}
+
+#diplomados, #moviles, #escritorio {
+    float: left;
+    clear: left;
+    text-align: left;
+}
+
+#asesorias, #web, #portafolio {
+    float: right;
+    clear: right;
+    text-align: right;
+}
