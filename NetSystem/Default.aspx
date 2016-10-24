@@ -3,39 +3,58 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>Net-System</h1>
+        <p class="lead">
+            Aqui va toda la informacion relevenate de la empresa, posiblemente valla un slider con algunas imagenes promocionales
+            de nuestros productos e imagenes con promociones para el cliente.
+        </p>
     </div>
 
     <div class="row">
-        <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+        <div class="col-md-3">
+            <h2 class="page-header">Nosotros</h2>
+            <p class="default-nmvo">
+                Somos una empresa desarrollada para brindar un servicio enfocado en el área de las 
+                tecnologías de la información, dentro de nuestras principales actividades están: 
+                diseño y desarrollo de software, sitios web, redes informáticas e instalaciones de 
+                seguridad, así como también el mantenimiento a equipos y servicios que requieran de nosotros.
             </p>
-            <p>
+            <%--<p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
+            </p>--%>
         </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+        <div class="col-md-3">
+            <h2 class="page-header">Misión</h2>
+            <p class="default-nmvo">
+                Brindar servicios y soluciones tecnológicamente avanzadas a nuestros 
+                clientes en el ámbito de TI, garantizando la solución completa y eficiente 
+                a necesidades y requerimientos.
             </p>
-            <p>
+            <%--<p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
+            </p>--%>
         </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+        <div class="col-md-3">
+            <h2 class="page-header">Visión</h2>
+            <p class="default-nmvo">
+                Posicionar como líderes en cada uno de nuestros servicios, y con el tiempo ir expandiendo 
+                nuestros servicios en nuevas regiones.
             </p>
-            <p>
+            <%--<p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+            </p>--%>
+        </div>
+        <div class="col-md-3">
+            <h2 class="page-header">Objetivos</h2>
+            <p class="default-nmvo">
+                Proveer soluciones de software apoyados en tecnologías en constante evolución, 
+                en todas las áreas demandantes de desarrollo informático inteligente aplicado a la 
+                gestión de procesos productivos, buscando permanentemente la diferenciación por la 
+                calidad del servicio y la satisfacción del cliente.                   
             </p>
+            <%--<p>
+                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+            </p>--%>
         </div>
     </div>
 

@@ -45,3 +45,19 @@ textarea {
     clear: right;
     text-align: right;
 }
+
+.workshop-right {
+    text-align: right;
+}
+
+.workshop-left {
+    text-align: left;
+}
+
+.default-nmvo {
+    text-align: justify;
+}
+
+.social-media {
+    float: right;
+}

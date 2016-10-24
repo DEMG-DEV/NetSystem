@@ -25,6 +25,11 @@
         window.appInsights = appInsights;
         appInsights.trackPageView();
     </script>
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="~/Content/engine1/style.css" />
+    <script type="text/javascript" src="~/Content/engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
     <form runat="server">
@@ -57,8 +62,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <asp:Image ID="Image1" runat="server" Width="50px" ImageUrl="~/images/logo.png" CssClass="logo" />
-                    <a class="navbar-brand" runat="server" href="~/">Net-System</a>
+                    <a runat="server" href="~/">
+                        <asp:Image ID="Image1" runat="server" Width="70px" ImageUrl="~/images/logo.png" CssClass="logo" />
+                    </a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -66,6 +72,11 @@
                         <li><a runat="server" href="Courses.aspx">Diplomados</a></li>
                         <li><a runat="server" href="Develop.aspx">Desarrollo</a></li>
                         <li><a runat="server" href="Contact.aspx">Contacto</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav social-media">
+                        <li><a runat="server" href="https://www.facebook.com/NETSYSTEMCorporative/?ref=bookmarks" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+                        <li><a runat="server" href="https://twitter.com/netsystem_corp" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
+                        <li><a runat="server" href="https://plus.google.com/u/0/105149450830495069695" target="_blank"><i class="fa fa-google-plus fa-2x"></i></a></li>
                     </ul>
                 </div>
             </div>
