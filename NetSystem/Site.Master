@@ -63,15 +63,15 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a runat="server" href="~/">
-                        <asp:Image ID="Image1" runat="server" Width="70px" ImageUrl="~/images/logo.png" CssClass="logo" />
+                        <asp:Image ID="Image1" runat="server" Width="70px" ImageUrl="~/images/logo.png" CssClass="logo" ToolTip="Net System" />
                     </a>
                 </div>
-                <div class="navbar-collapse collapse">
+                <div class="navbar-collapse collapse nav-text">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="Default.aspx">Inicio</a></li>
-                        <li><a runat="server" href="Courses.aspx">Diplomados</a></li>
-                        <li><a runat="server" href="Develop.aspx">Desarrollo</a></li>
-                        <li><a runat="server" href="Contact.aspx">Contacto</a></li>
+                        <li><a runat="server" href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Inicio</a></li>
+                        <li><a runat="server" href="Courses.aspx"><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;Diplomados</a></li>
+                        <li><a runat="server" href="Develop.aspx"><i class="fa fa-laptop" aria-hidden="true"></i>&nbsp;Desarrollo</a></li>
+                        <li><a runat="server" href="Contact.aspx"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Contacto</a></li>
                     </ul>
                     <ul class="nav navbar-nav social-media">
                         <li><a runat="server" href="https://www.facebook.com/NETSYSTEMCorporative/?ref=bookmarks" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>

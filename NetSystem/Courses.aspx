@@ -9,7 +9,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="diplomados">Diplomados</h1>
+                    <h1 id="diplomados"><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;Diplomados</h1>
                 </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="asesorias">Asesorias</h1>
+                    <h1 id="asesorias">Asesorias&nbsp;<i class="fa fa-users" aria-hidden="true"></i></h1>
                 </div>
             </div>
         </div>

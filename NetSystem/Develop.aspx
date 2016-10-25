@@ -39,7 +39,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="moviles">Aplicaciones Móviles</h1>
+                    <h1 id="moviles"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;Aplicaciones Móviles</h1>
                 </div>
             </div>
         </div>
@@ -52,7 +52,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="web">Páginas Web</h1>
+                    <h1 id="web">Páginas Web&nbsp;<i class="fa fa-globe" aria-hidden="true"></i></h1>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="escritorio">Aplicaciones de Escritorio</h1>
+                    <h1 id="escritorio"><i class="fa fa-desktop" aria-hidden="true"></i>&nbsp;Aplicaciones de Escritorio</h1>
                 </div>
             </div>
         </div>
@@ -78,7 +78,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="portafolio">Portafolio</h1>
+                    <h1 id="portafolio">Portafolio&nbsp;<i class="fa fa-briefcase" aria-hidden="true"></i></h1>
                 </div>
             </div>
         </div>
