@@ -11,6 +11,10 @@ body {
     padding-right: 15px;
 }
 
+ul {
+    text-align: left;
+}
+
 /* Set widths on the form inputs since otherwise they're 100% wide */
 input,
 select,
@@ -60,4 +64,12 @@ textarea {
 
 .social-media {
     float: right;
+}
+
+.text-rl {
+    text-align: left;
+}
+
+#java ul li {
+    text-align: left;
 }

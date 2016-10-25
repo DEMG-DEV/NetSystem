@@ -35,7 +35,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <h4>Módulo 1:&nbsp;<strong>Microsoft Excel</strong></h4>
                             <ul>
                                 <li>Trabajar con datos</li>
@@ -51,7 +51,7 @@
                                 <li>Impresión</li>
                             </ul>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <h4>Módulo 2:&nbsp;<strong>Microsoft Word</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de word</li>
@@ -74,7 +74,7 @@
                                 <li>Impresión</li>
                             </ul>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <h4>Módulo 3:&nbsp;<strong>Microsoft PowerPoint</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de porwerpoint</li>
@@ -88,10 +88,7 @@
                                 <li>Dar una presentación</li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4"></div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <h4>Modulo 4:&nbsp;<strong>Microsoft Outlook</strong></h4>
                             <ul>
                                 <li>Repaso de aspectos básicos del correo electrónico</li>
@@ -107,7 +104,8 @@
                                 <li>Categorías y archivos de datos de outlook</li>
                             </ul>
                         </div>
-                        <div class="col-md-4"></div>
+                    </div>
+                    <div class="row">
                     </div>
                 </div>
             </article>
@@ -135,7 +133,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-md-offset-1"></div>
-                        <div class="col-md-8">
+                        <div id="java" class="col-md-8">
                             <h4>Módulo 1:&nbsp<strong>45 hrs</strong></h4>
                             <ul class="col-md-4">
                                 <li>Introducción</li>
