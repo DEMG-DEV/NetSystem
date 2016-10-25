@@ -16,7 +16,7 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2>Diplomado Office 2016</h2>
+                    <h2>Office 2016</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -35,8 +35,9 @@
                         </div>
                     </div>
                     <div class="row">
+                        <h3 class="page-header">Temario</h3>
                         <div class="col-md-3">
-                            <h4>Módulo 1:&nbsp;<strong>Microsoft Excel</strong></h4>
+                            <h4 class="page-header"><strong>Microsoft Excel</strong></h4>
                             <ul>
                                 <li>Trabajar con datos</li>
                                 <li>Fórmulas</li>
@@ -52,30 +53,25 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4>Módulo 2:&nbsp;<strong>Microsoft Word</strong></h4>
+                            <h4 class="page-header"><strong>Microsoft Word</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de word</li>
                                 <li>Características básicas de los documentos</li>
-                                <li>Formato de caracteres</li>
                                 <li>Trabajar con plantillas</li>
                                 <li>Administrar el flujo de texto</li>
-                                <li>Formato de párrafos</li>
                                 <li>Formato de documentos</li>
-                                <li>Corrección de texto</li>
                                 <li>Fundamentos de la edición</li>
                                 <li>Crear tablas y listas</li>
                                 <li>Agregar imagenes y formas</li>
                                 <li>Hacer el texto gráficamente interesante</li>
                                 <li>Crear una tabla de contenido y un índice</li>
-                                <li>Trabajar con títulos</li>
                                 <li>Agregar citas, fuentes y bibliografía</li>
                                 <li>Proteger y compartir documentos</li>
                                 <li>Combinar correspondencia</li>
-                                <li>Impresión</li>
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4>Módulo 3:&nbsp;<strong>Microsoft PowerPoint</strong></h4>
+                            <h4 class="page-header"><strong>Microsoft PowerPoint</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de porwerpoint</li>
                                 <li>Características básicas de las presentaciones</li>
@@ -89,7 +85,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4>Modulo 4:&nbsp;<strong>Microsoft Outlook</strong></h4>
+                            <h4 class="page-header"><strong>Microsoft Outlook</strong></h4>
                             <ul>
                                 <li>Repaso de aspectos básicos del correo electrónico</li>
                                 <li>Herramientas de correo</li>
@@ -124,18 +120,18 @@
                             <p>
                                 Al finalizar el curso conocerás:<br />
                                 Cómo instalar y trabajar con el entorno el desarrollo de aplicaciones en Java como también los elementos 
-                            y características principales con las que cuenta el lenguaje Java, los conceptos fundamentales de la 
-                            programación orientada a objetos y cómo se implementan en Java. Las clases esenciales de Java y cómo 
-                            utilizarlas, almacenamiento y acceso a estructuras de datos con ‘Colecciones’, manejo de bases de datos, 
-                            y todo lo esencial y complejo para poder ser un programador eficiente e independiente en el ambiente laboral.
+                                y características principales con las que cuenta el lenguaje Java, los conceptos fundamentales de la 
+                                programación orientada a objetos y cómo se implementan en Java. Las clases esenciales de Java y cómo 
+                                utilizarlas, almacenamiento y acceso a estructuras de datos con ‘Colecciones’, manejo de bases de datos, 
+                                y todo lo esencial y complejo para poder ser un programador eficiente e independiente en el ambiente laboral.
                             </p>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-1"></div>
-                        <div id="java" class="col-md-8">
-                            <h4>Módulo 1:&nbsp<strong>45 hrs</strong></h4>
-                            <ul class="col-md-4">
+                    <div class="row workshop-left">
+                        <h3 class="page-header">Temario</h3>
+                        <div class="col-md-3">
+                            <h4 class="page-header"><strong>Java SE</strong></h4>
+                            <ul>
                                 <li>Introducción</li>
                                 <li>Conceptos de Programación</li>
                                 <li>Variables y Operadores</li>
@@ -161,8 +157,14 @@
                                 <li>Programación orientada a objetos (POO)</li>
                                 <li>Definiciones: Clases, Métodos y Atributos</li>
                                 <li>Creación de objetos y referencias</li>
+                                <li>Métodos con parámetros</li>
+                                <li>Tipos de métodos (de clase y objeto)</li>
+                                <li>Métodos constructores, inicializadores</li>
                             </ul>
-                            <ul class="col-md-4">
+                        </div>
+                        <div class="col-md-3">
+                            <h4 class="page-header">&nbsp</h4>
+                            <ul>
                                 <li>Encapsulamiento: Necesidad del encapsulamiento</li>
                                 <li>El recolector de basura (Destrucción de un objeto)</li>
                                 <li>Paquetes de clases</li>
@@ -188,6 +190,55 @@
                                 <li>Diseño de interfaces de usuario</li>
                                 <li>Swing y JFC</li>
                                 <li>Construcción de programas con interfaz gráfica compuesta</li>
+                                <li>Bases de Datos</li>
+                                <li>Acceso a Datos: Operaciones básicas con Bases de Datos</li>
+
+                            </ul>
+                        </div>
+                        <div class="col-md-3">
+                            <h4 class="page-header"><strong>Java EE</strong></h4>
+                            <ul>
+                                <li>Introducción al curso</li>
+                                <li>Componentes de una aplicación Web</li>
+                                <li>Tecnologías</li>
+                                <li>Acceso a Datos</li>
+                                <li>Manejo de Bases de Datos</li>
+                                <li>JPA Persistencia</li>
+                                <li>Desarrollo de aplicaciones completas</li>
+                                <li>Programación Web</li>
+                                <li>Contenedores Java, Servidores Web: Apache Tomcat</li>
+                                <li>JSP y Servlets</li>
+                                <li>Paquetes de etiquetas JSTL, EL</li>
+                                <li>Frameworks de Desarrollo</li>
+                                <li>Java Server Faces</li>
+                                <li>Diseño de páginas Web con XHTML, CSS</li>
+                                <li>ManagedBeans</li>
+                                <li>Ámbitos</li>
+                                <li>Lógica de navegación</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-3">
+                            <h4 class="page-header">&nbsp</h4>
+                            <ul>
+                                <li>Login/Logout</li>
+                                <li>Control de sesión con filtros</li>
+                                <li>Componentes avanzados (Prime faces)</li>
+                                <li>Ajax básico</li>
+                                <li>Componentes de entrada y selección mejorados</li>
+                                <li>Convertidores</li>
+                                <li>Paneles y Diálogos</li>
+                                <li>Componentes de Iteración de Datos</li>
+                                <li>Menús y tipos de menús</li>
+                                <li>Solicitud y Respuesta</li>
+                                <li>Validación del lado del cliente</li>
+                                <li>Facelets y templates</li>
+                                <li>Diseño de Formularios</li>
+                                <li>Creación de una aplicación</li>
+                                <li>Depuración</li>
+                                <li>Exportación de información</li>
+                                <li>Generación de reportes</li>
+                                <li>Despliegue de aplicación</li>
+
                             </ul>
                         </div>
                     </div>
@@ -215,9 +266,9 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4"></div>
+                        <h3 class="page-header">Temario</h3>
                         <div class="col-md-4">
-                            <h4>Módulo 1</h4>
+                            <h4 class="page-header"><strong>Módulo 1</strong></h4>
                             <ul>
                                 <li>Introducción</li>
                                 <li>Herramientas a emplear</li>
@@ -229,6 +280,11 @@
                                 <li>Elegir el tipo de servidor: hosting gratuito vs hosting de pago</li>
                                 <li>Elegir el tipo de servidor: el soporte técnico, ese que nunca tenemos en cuenta</li>
                                 <li>Elegir el tipo de servidor: servidor compartido vs servidor virtual privado vs servidor dedicado</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <h4 class="page-header"><strong>Módulo 2</strong></h4>
+                            <ul>
                                 <li>Elegir el tipo de servidor: servidor administrado vs servidor no administrado</li>
                                 <li>Elegir el tipo de servidor: discos duros de los servidores</li>
                                 <li>Elegir el tipo de servidor: sistema operativo Windows vs Linux</li>
@@ -237,10 +293,8 @@
                                 <li>Registrar un nombre de dominio y adquirir el hosting</li>
                                 <li>Consejos finales para adquisición entre hosting gratuito y hosting de pago</li>
                                 <li>Recomendaciones Finales</li>
-
                             </ul>
                         </div>
-                        <div class="col-md-4"></div>
                     </div>
                 </div>
             </article>
