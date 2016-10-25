@@ -35,6 +35,79 @@
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-md-4">
+                            <h4>Módulo 1:&nbsp;<strong>Microsoft Excel</strong></h4>
+                            <ul>
+                                <li>Trabajar con datos</li>
+                                <li>Fórmulas</li>
+                                <li>Funciones básicas y avanzadas</li>
+                                <li>Auditoría de fórmulas y funciones</li>
+                                <li>Listas y bases de datos</li>
+                                <li>Combinar datos de fuentes múltiples</li>
+                                <li>Tablas dinámicas</li>
+                                <li>Gráficas</li>
+                                <li>Agregar imágenes y formas a una hoja de cálculo</li>
+                                <li>Asegurar y compartir documentos</li>
+                                <li>Impresión</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <h4>Módulo 2:&nbsp;<strong>Microsoft Word</strong></h4>
+                            <ul>
+                                <li>Elementos esenciales de word</li>
+                                <li>Características básicas de los documentos</li>
+                                <li>Formato de caracteres</li>
+                                <li>Trabajar con plantillas</li>
+                                <li>Administrar el flujo de texto</li>
+                                <li>Formato de párrafos</li>
+                                <li>Formato de documentos</li>
+                                <li>Corrección de texto</li>
+                                <li>Fundamentos de la edición</li>
+                                <li>Crear tablas y listas</li>
+                                <li>Agregar imagenes y formas</li>
+                                <li>Hacer el texto gráficamente interesante</li>
+                                <li>Crear una tabla de contenido y un índice</li>
+                                <li>Trabajar con títulos</li>
+                                <li>Agregar citas, fuentes y bibliografía</li>
+                                <li>Proteger y compartir documentos</li>
+                                <li>Combinar correspondencia</li>
+                                <li>Impresión</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <h4>Módulo 3:&nbsp;<strong>Microsoft PowerPoint</strong></h4>
+                            <ul>
+                                <li>Elementos esenciales de porwerpoint</li>
+                                <li>Características básicas de las presentaciones</li>
+                                <li>Trabajar con texto</li>
+                                <li>Agregar tablas a diapositivas</li>
+                                <li>Utilizar gráficos en una presentación</li>
+                                <li>Creación de gráficos</li>
+                                <li>Agregar gráficos y clips multimedia a una presentación</li>
+                                <li>Asegurar y compartir una presentación</li>
+                                <li>Dar una presentación</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4"></div>
+                        <div class="col-md-4">
+                            <h4>Modulo 4:&nbsp;<strong>Microsoft Outlook</strong></h4>
+                            <ul>
+                                <li>Repaso de aspectos básicos del correo electrónico</li>
+                                <li>Herramientas de correo</li>
+                                <li>Administrar el correo con carpetas</li>
+                                <li>Procesar los mensajes con reglas</li>
+                                <li>Aspectos básicos de los contactos</li>
+                                <li>Manejo de contactos</li>
+                                <li>Aspectos básicos del calendario</li>
+                                <li>Manejo de reuniones</li>
+                                <li>Manejo avanzado del calendario</li>
+                                <li>Administración de tareas</li>
+                                <li>Categorías y archivos de datos de outlook</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4"></div>
                     </div>
                 </div>
             </article>
@@ -43,20 +116,82 @@
             <article>
                 <div class="container">
                     <h2>Programacion con JAVA</h2>
-                    <div class="col-md-3">
-                        <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
-                        <p><strong>Duracion</strong>: 140 hrs.</p>
-                        <p><strong>Modalidad</strong>: Presencial y Virtual</p>
-                    </div>
-                    <div class="col-md-8 col-md-offset-1">
-                        <p>
-                            Al finalizar el curso conocerás:<br />
-                            Cómo instalar y trabajar con el entorno el desarrollo de aplicaciones en Java como también los elementos 
+                    <div class="row">
+                        <div class="col-md-3">
+                            <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
+                            <p><strong>Duracion</strong>: 140 hrs.</p>
+                            <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                        </div>
+                        <div class="col-md-8 col-md-offset-1">
+                            <p>
+                                Al finalizar el curso conocerás:<br />
+                                Cómo instalar y trabajar con el entorno el desarrollo de aplicaciones en Java como también los elementos 
                             y características principales con las que cuenta el lenguaje Java, los conceptos fundamentales de la 
                             programación orientada a objetos y cómo se implementan en Java. Las clases esenciales de Java y cómo 
                             utilizarlas, almacenamiento y acceso a estructuras de datos con ‘Colecciones’, manejo de bases de datos, 
                             y todo lo esencial y complejo para poder ser un programador eficiente e independiente en el ambiente laboral.
-                        </p>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-md-offset-1"></div>
+                        <div class="col-md-8">
+                            <h4>Módulo 1:&nbsp<strong>45 hrs</strong></h4>
+                            <ul class="col-md-4">
+                                <li>Introducción</li>
+                                <li>Conceptos de Programación</li>
+                                <li>Variables y Operadores</li>
+                                <li>Tipos de datos</li>
+                                <li>Diagramas de flujo</li>
+                                <li>Construcción de diagramas de flujo</li>
+                                <li>Algoritmos</li>
+                                <li>Construcción de los algoritmos</li>
+                                <li>Entrada/Salida</li>
+                                <li>Estructuras de control</li>
+                                <li>Estructuras repetitivas</li>
+                                <li>Elementos del lenguaje Java</li>
+                                <li>Palabras reservadas</li>
+                                <li>Tipos de datos</li>
+                                <li>Expresiones</li>
+                                <li>Operadores de asignación, Operadores lógicos</li>
+                                <li>Funciones matemáticas</li>
+                                <li>Mostrando datos en pantalla</li>
+                                <li>Arreglos, listas y estructura de datos, colecciones y enumeraciones</li>
+                                <li>Funciones, métodos de clases</li>
+                                <li>Funciones con argumentos</li>
+                                <li>Funciones que retornan valores</li>
+                                <li>Programación orientada a objetos (POO)</li>
+                                <li>Definiciones: Clases, Métodos y Atributos</li>
+                                <li>Creación de objetos y referencias</li>
+                            </ul>
+                            <ul class="col-md-4">
+                                <li>Encapsulamiento: Necesidad del encapsulamiento</li>
+                                <li>El recolector de basura (Destrucción de un objeto)</li>
+                                <li>Paquetes de clases</li>
+                                <li>Jerarquía de clases</li>
+                                <li>Herencia y Polimorfismo</li>
+                                <li>Clases Abstractas</li>
+                                <li>Clases Finales</li>
+                                <li>Interfaces</li>
+                                <li>Implementación de interfaces</li>
+                                <li>Excepciones</li>
+                                <li>Manejo de excepciones</li>
+                                <li>try, catch, finally</li>
+                                <li>Personalización de excepciones</li>
+                                <li>throw, throws</li>
+                                <li>Aserciones</li>
+                                <li>Utilerías</li>
+                                <li>Expresiones regulares</li>
+                                <li>Fechas (librería para manejo de Fechas)</li>
+                                <li>Swing</li>
+                                <li>Componentes equivalentes básicos y eventos</li>
+                                <li>Swing avanzado</li>
+                                <li>Componentes avanzados</li>
+                                <li>Diseño de interfaces de usuario</li>
+                                <li>Swing y JFC</li>
+                                <li>Construcción de programas con interfaz gráfica compuesta</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </article>
@@ -65,19 +200,49 @@
             <article>
                 <div class="container">
                     <h2>Administracion de Servidores Web</h2>
-                    <div class="col-md-8">
-                        <p>
-                            Nuestro curso de administración de servidores web está dirigido a estudiantes o 
+                    <div class="row">
+                        <div class="col-md-8">
+                            <p>
+                                Nuestro curso de administración de servidores web está dirigido a estudiantes o 
                             graduados en IT e informática, interesados en incursionar en el mundo de la administración de servidores web, 
                             con lo más nuevo en herramientas para servidores web. Una vez que se concluye el curso el alumno es 
                             capaz de construir un sitio web con los altos patrones en peticiones al servicio web así como
                             También a resolver los problemas más comunes de los servidores web que se administre.
-                        </p>
+                            </p>
+                        </div>
+                        <div class="col-md-3">
+                            <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
+                            <p><strong>Duracion</strong>: 140 hrs.</p>
+                            <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                        </div>
                     </div>
-                    <div class="col-md-3">
-                        <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
-                        <p><strong>Duracion</strong>: 140 hrs.</p>
-                        <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                    <div class="row">
+                        <div class="col-md-4"></div>
+                        <div class="col-md-4">
+                            <h4>Módulo 1</h4>
+                            <ul>
+                                <li>Introducción</li>
+                                <li>Herramientas a emplear</li>
+                                <li>Diferencias entre dominio y hosting</li>
+                                <li>¿Por qué tener un dominio y un email propio?</li>
+                                <li>Dominio gratis vs dominio de pago</li>
+                                <li>Elegir el tipo de servidor</li>
+                                <li>Diferencia entre espacio web y transferencia web</li>
+                                <li>Elegir el tipo de servidor: hosting gratuito vs hosting de pago</li>
+                                <li>Elegir el tipo de servidor: el soporte técnico, ese que nunca tenemos en cuenta</li>
+                                <li>Elegir el tipo de servidor: servidor compartido vs servidor virtual privado vs servidor dedicado</li>
+                                <li>Elegir el tipo de servidor: servidor administrado vs servidor no administrado</li>
+                                <li>Elegir el tipo de servidor: discos duros de los servidores</li>
+                                <li>Elegir el tipo de servidor: sistema operativo Windows vs Linux</li>
+                                <li>Elegir el tipo de servidor: los hostings que usaremos</li>
+                                <li>Elegir el nombre del dominio</li>
+                                <li>Registrar un nombre de dominio y adquirir el hosting</li>
+                                <li>Consejos finales para adquisición entre hosting gratuito y hosting de pago</li>
+                                <li>Recomendaciones Finales</li>
+
+                            </ul>
+                        </div>
+                        <div class="col-md-4"></div>
                     </div>
                 </div>
             </article>
