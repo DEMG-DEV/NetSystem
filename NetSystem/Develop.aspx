@@ -39,7 +39,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="moviles"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;Aplicaciones Móviles</h1>
+                    <h1 id="escritorio"><i class="fa fa-desktop" aria-hidden="true"></i>&nbsp;Aplicaciones de Escritorio</h1>
                 </div>
             </div>
         </div>
@@ -47,7 +47,6 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2>Desarrollo de Software de Escritorio</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -60,6 +59,34 @@
                             <p><strong>Tiempo de Desarrollo (aprox):</strong> 30 días</p>
                             <p><strong>Costo:</strong> $5,300 M.N. + IVA</p>
                             <p><strong>Modalidad:</strong> Escritorio</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6>Caracteristicas importantes:</h6>
+                            <ul>
+                                <li>Compatible con lectores de códigos de barras, impresoras de tickets, cajón de dinero.</li>
+                                <li>Puede imprimir comprobantes</li>
+                                <li>Personalización del formato de tickets</li>
+                                <li>Se puede instalar en todas las computadoras de la red local y trabajar de forma simultanea sobre la misma base de datos</li>
+                                <li>Intuitivo y fácil de usar, sin funciones innecesarias</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6>Mínimos requisitos de hardware:</h6>
+                            Se puede utilizar en:
+                            <ul>
+                                <li>Farmacias</li>
+                                <li>Tiendas de abarrotes</li>
+                                <li>Tiendas de ropa</li>
+                                <li>Dulcerías</li>
+                                <li>Papelerías</li>
+                                <li>Mueblerías</li>
+                                <li>Electrónicas</li>
+                                <li>Panaderías</li>
+                                <li>Ferreterías</li>
+                                <li>Etc</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -78,7 +105,6 @@
         <div class="workshop-right">
             <article>
                 <div class="container">
-                    <h2>Desarrollo de Paginas Web</h2>
                     <div class="row">
                         <div class="col-md-3">
                             <p><strong>Tiempo de Desarrollo (aprox):</strong> 30 días</p>
@@ -92,6 +118,25 @@
                             hasta proyectos avanzados.
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6>Incluye:</h6>
+                            <ul>
+                                <li>Diseño Web original y exclusivo de acuerdo a su giro</li>
+                                <li>Adaptable en dispositivos móviles, Smartphone, tablets</li>
+                                <li>1 sección en HTML medio con hasta 5 apartados</li>
+                                <li>10 fotografías</li>
+                                <li>2 imágenes de nuestra galería</li>
+                                <li>2 iconos</li>
+                                <li>Links a redes sociales (Facebook, twitter, etc.)</li>
+                                <li>1 Chat en línea Zopim</li>
+                                <li>1 Mapa de Google</li>
+                                <li>Alta en el buscador GOOGLE</li>
+                                <li>Posicionamiento natural en GOOGLE con 20 frases clave.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6"></div>
+                    </div>
                 </div>
             </article>
         </div>
@@ -100,7 +145,7 @@
         <div class="page-header">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 id="escritorio"><i class="fa fa-desktop" aria-hidden="true"></i>&nbsp;Aplicaciones de Escritorio</h1>
+                    <h1 id="moviles"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;Aplicaciones Móviles</h1>
                 </div>
             </div>
         </div>
@@ -108,7 +153,6 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2>Desarrollo de aplicacion móvil</h2>
                     <div class="row">
                         <div class="col-md-8">
                             Dirigido a pequeños y medianos negocios en la cual se adapten a sus necesidades y 
@@ -119,6 +163,29 @@
                             <p><strong>Tiempo de Desarrollo (aprox):</strong> 1-2 meses</p>
                             <p><strong>Costo:</strong> $3,200 M.N. + IVA</p>
                             <p><strong>Modalidad:</strong> Móvil Android y/o Windows Mobile 10</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6>Características importantes </h6>
+                            <ul>
+                                <li>Compatible con versión de Android 2.3 Gingerbread y superior</li>
+                                <li>Compatible con Windows 10 Mobile y PC</li>
+                                <li>Corre con al menos 512 de ram en el teléfono (sistema operativo indistinto)</li>
+                                <li>Se puede instalar en cualquier dispositivo de los integrantes (en caso de necesitarse)</li>
+                                <li>Intuitivo y fácil de usar, sin funciones innecesarias</li>
+                                <li>Con o sin publicidad (acordar con los desarrolladores)</li>
+                                <li>No aplica para Apple</li>
+
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6>Se puede utilizar en:</h6>
+                            <p>
+                                Al ser una aplicación creada específicamente para el negocio, es importante aclarar 
+                                que se adaptara a las necesidades de cada uno. Por lo tanto, podrá utilizarse en cualquier 
+                                negocio que compre nuestra aplicación
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -136,40 +203,41 @@
         <!--informacion va despues de aqui-->
         <div class="row">
             <div class="col-md-3">
-                <h2>Programa 1</h2>
+                <img class="img-circle" src="images/p1.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Escuela de Sistemas</h2>
                 <p>
-                    Informacion de app1
+                    Proyecto realizado como parte de servicio social de los inicios de nuestra empresa en parte de la formacion
+                    academica de la mesa directiva de NetSystem.
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#">Learn more &raquo;</a>
-                </p>
+                <p><a class="btn btn-default" href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.sistemastorreon.uadec.mx%2Fsistemas%2F&h=jAQHdfr71" target="_blank" role="button">Más Información &raquo;</a></p>
             </div>
             <div class="col-md-3">
-                <h2>Programa 2</h2>
+                <img class="img-circle" src="images/p2.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Encripter HMSS</h2>
                 <p>
-                    Informacion de app2
+                    Programa que encripta y desencripta mensajes y los puede pasar a archivo de texto para su uso posterior
+                    y compartir el mensaje a tus amigos.
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#">Learn more &raquo;</a>
-                </p>
+                <p><a class="btn btn-default" href="https://sourceforge.net/projects/encripterhmss/" target="_blank" role="button">Más Información &raquo;</a></p>
             </div>
             <div class="col-md-3">
-                <h2>Programa 3</h2>
+                <img class="img-circle" src="images/p3.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Math-Tlon</h2>
                 <p>
-                    Informacion de app3
+                    En esta app practicaras las operaciones matemáticas básicas de Primaria/Elementary School de una manera fácil y en 
+                    la palma de tu mano. Enfocada principalmente en los niños que quieren practicar el uso de las matemáticas mas a 
+                    fondo en un modo de competencia.
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#">Learn more &raquo;</a>
-                </p>
+                <p><a class="btn btn-default" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.hmss.MathTlon&h=jAQHdfr71" target="_blank" role="button">Más Información &raquo;</a></p>
             </div>
             <div class="col-md-3">
-                <h2>Programa 4</h2>
+                <img class="img-circle" src="images/p4.png" alt="Generic placeholder image" width="140" height="140">
+                <h2>Punto de Venta</h2>
                 <p>
-                    Informacion de app4
+                    Punto de venta que puede ser utilizado por pequeñas, medianas y grandes empresas, esta preparado para gestionar altamente 
+                    desde inventarios hasta ventas en diferentes categorias.
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#">Learn more &raquo;</a>
-                </p>
+                <p><a class="btn btn-default" href="#" role="button">Más Información &raquo;</a></p>
             </div>
         </div>
     </div>
