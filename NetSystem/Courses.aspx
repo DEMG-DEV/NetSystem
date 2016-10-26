@@ -35,7 +35,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <h3 class="page-header">Temario</h3>
+                        <h3>Temario</h3>
                         <div class="col-md-3">
                             <h4 class="page-header"><strong>Microsoft Excel</strong></h4>
                             <ul>
@@ -128,7 +128,7 @@
                         </div>
                     </div>
                     <div class="row workshop-left">
-                        <h3 class="page-header">Temario</h3>
+                        <h3>Temario</h3>
                         <div class="col-md-3">
                             <h4 class="page-header"><strong>Java SE</strong></h4>
                             <ul>
@@ -238,7 +238,6 @@
                                 <li>Exportación de información</li>
                                 <li>Generación de reportes</li>
                                 <li>Despliegue de aplicación</li>
-
                             </ul>
                         </div>
                     </div>
@@ -266,7 +265,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <h3 class="page-header">Temario</h3>
+                        <h3>Temario</h3>
                         <div class="col-md-4">
                             <h4 class="page-header"><strong>Módulo 1</strong></h4>
                             <ul>

@@ -25,10 +25,16 @@
         window.appInsights = appInsights;
         appInsights.trackPageView();
     </script>
-    <!-- Start WOWSlider.com HEAD section -->
+    <%--<!-- Start WOWSlider.com HEAD section -->
     <link rel="stylesheet" type="text/css" href="~/Content/engine1/style.css" />
     <script type="text/javascript" src="~/Content/engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->--%>
+
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="~/Content/engine2/style.css" />
+    <script type="text/javascript" src="~/Content/engine2/jquery.js"></script>
     <!-- End WOWSlider.com HEAD section -->
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>

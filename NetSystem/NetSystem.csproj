@@ -139,13 +139,23 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\data1\" />
-    <Folder Include="Content\engine1\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\data2\images\formato_promocion_navidea.png" />
+    <Content Include="Content\data2\images\slider22n.png" />
+    <Content Include="Content\data2\tooltips\formato_promocion_navidea.png" />
+    <Content Include="Content\data2\tooltips\slider22n.png" />
+    <Content Include="Content\engine2\jquery.js" />
+    <Content Include="Content\engine2\script.js" />
+    <Content Include="Content\engine2\style.css" />
+    <Content Include="Content\engine2\style.mod.css" />
+    <Content Include="Content\engine2\wowslider.js" />
+    <Content Include="Content\engine2\wowslider.mod.js" />
+    <Content Include="Content\engine2\ws-ctrl-material.svg" />
     <Content Include="Content\Site.css" />
     <Content Include="Courses.aspx" />
     <Content Include="Develop.aspx" />
@@ -156,6 +166,9 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\engine2\ws-ctrl-material.eot" />
+    <Content Include="Content\engine2\ws-ctrl-material.ttf" />
+    <Content Include="Content\engine2\ws-ctrl-material.woff" />
     <None Include="Properties\PublishProfiles\NettSystem.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="images\logo.png" />

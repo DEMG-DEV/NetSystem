@@ -28,8 +28,8 @@
                 <%--<div class="ws_script" style="position: absolute; left: -99%"><a href="http://wowslider.com">jquery image gallery</a> by WOWSlider.com v8.0</div>--%>
                 <div class="ws_shadow"></div>
             </div>
-            <script type="text/javascript" src="Content/engine1/wowslider.js"></script>
-            <script type="text/javascript" src="Content/engine1/script.js"></script>
+            <script type="text/javascript" src="Content/engine2/wowslider.js"></script>
+            <script type="text/javascript" src="Content/engine2/script.js"></script>
             <!-- End WOWSlider.com BODY section -->
         </div>
         <h1>Desarrollo</h1>

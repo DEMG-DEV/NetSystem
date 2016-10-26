@@ -3,6 +3,32 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
+        <div>
+            <!-- Start WOWSlider.com BODY section -->
+            <div id="wowslider-container1">
+                <div class="ws_images">
+                    <ul>
+                        <li>
+                            <img src="Content/data2/images/formato_promocion_navidea.png" alt="slideshow wordpress" title="Promocion Navideña Desarrollo" id="wows1_0" /></li>
+                        <li>
+                            <img src="Content/data2/images/slider22n.png" alt="Promoción Navideña Office 2016" title="Promoción Navideña Office 2016" id="wows1_1" /></li>
+                    </ul>
+                </div>
+                <div class="ws_bullets">
+                    <div>
+                        <a href="#" title="Promocion Navideña Desarrollo"><span>
+                            <img src="Content/data2/tooltips/formato_promocion_navidea.png" alt="Promocion Navideña Desarrollo" />1</span></a>
+                        <a href="#" title="Promoción Navideña Office 2016"><span>
+                            <img src="Content/data2/tooltips/slider22n.png" alt="Promoción Navideña Office 2016" />2</span></a>
+                    </div>
+                </div>
+                <%--<div class="ws_script" style="position: absolute; left: -99%"><a href="http://wowslider.com">slider javascript</a> by WOWSlider.com v8.0</div>--%>
+                <div class="ws_shadow"></div>
+            </div>
+            <script type="text/javascript" src="Content/engine2/wowslider.js"></script>
+            <script type="text/javascript" src="Content/engine2/script.js"></script>
+            <!-- End WOWSlider.com BODY section -->
+        </div>
         <h1>Net-System</h1>
         <p class="lead">
             Aqui va toda la informacion relevenate de la empresa, posiblemente valla un slider con algunas imagenes promocionales
