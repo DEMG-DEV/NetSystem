@@ -45,7 +45,25 @@
         </div>
         <!--informacion va despues de aqui-->
         <div class="workshop-left">
-            Aqui va toda la informacion de esta seccion
+            <article>
+                <div class="container">
+                    <h2>Desarrollo de Software de Escritorio</h2>
+                    <div class="row">
+                        <div class="col-md-8">
+                            <p>
+                                Dirigido a pequeños y medianos negocios dedicados a la compra y venta de artículos. 
+                                Diseñado para las ventas de mostrador, control de facturación, cuentas por cobrar, 
+                                órdenes de compra, cotizaciones, inventarios, clientes, cortes de caja y mucho más.
+                            </p>
+                        </div>
+                        <div class="col-md-3 col-md-offset-1">
+                            <p><strong>Tiempo de Desarrollo (aprox):</strong> 30 días</p>
+                            <p><strong>Costo:</strong> $5,300 M.N. + IVA</p>
+                            <p><strong>Modalidad:</strong> Escritorio</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
         </div>
     </div>
     <div class="bs-docs-section">
@@ -58,7 +76,24 @@
         </div>
         <!--informacion va despues de aqui-->
         <div class="workshop-right">
-            Aqui va toda la informacion de esta seccion
+            <article>
+                <div class="container">
+                    <h2>Desarrollo de Paginas Web</h2>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <p><strong>Tiempo de Desarrollo (aprox):</strong> 30 días</p>
+                            <p><strong>Costo:</strong> $3,600 M.N. + IVA</p>
+                            <p><strong>Modalidad:</strong> Web</p>
+                        </div>
+                        <div class="col-md-8 col-md-offset-1">
+                            Dedicado a pequeños y medianos negocios. Da a conocer eso que ofreces al mundo 
+                            con una página web. Aumenta tu presencia en Internet y consigue más clientes. 
+                            Diseñamos páginas web profesionales y de alta calidad, desde páginas sencillas 
+                            hasta proyectos avanzados.
+                        </div>
+                    </div>
+                </div>
+            </article>
         </div>
     </div>
     <div class="bs-docs-section workshop-left">
@@ -71,7 +106,23 @@
         </div>
         <!--informacion va despues de aqui-->
         <div class="workshop-left">
-            Aqui va toda la informacion de esta seccion
+            <article>
+                <div class="container">
+                    <h2>Desarrollo de aplicacion móvil</h2>
+                    <div class="row">
+                        <div class="col-md-8">
+                            Dirigido a pequeños y medianos negocios en la cual se adapten a sus necesidades y 
+                            funciones acorde a ciertos factores que tomamos en cuenta, como también a personas 
+                            con proyectos en mente que estén dispuestos a solicitar nuestros servicios.
+                        </div>
+                        <div class="col-md-3 col-md-offset-1">
+                            <p><strong>Tiempo de Desarrollo (aprox):</strong> 1-2 meses</p>
+                            <p><strong>Costo:</strong> $3,200 M.N. + IVA</p>
+                            <p><strong>Modalidad:</strong> Móvil Android y/o Windows Mobile 10</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
         </div>
     </div>
     <div class="bs-docs-section">
