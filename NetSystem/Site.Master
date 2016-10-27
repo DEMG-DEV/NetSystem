@@ -92,7 +92,12 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Net-System</p>
+                <div class="col-md-6 workshop-left text-primary">
+                    <p>&copy; <%: DateTime.Now.Year %> - Net-System</p>
+                </div>
+                <div class="col-md-6 workshop-right text-primary">
+                    Powered By - <a href="http://getbootstrap.com" target="_blank"><i class="fa fa-bold" aria-hidden="true"></i>&nbsp;Bootstrap</a> | Powered By - <a href="https://www.asp.net" target="_blank"><i class="fa fa-windows" aria-hidden="true"></i>&nbsp;ASP.Net</a>
+                </div>
             </footer>
         </div>
 
