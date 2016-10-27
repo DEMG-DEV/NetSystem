@@ -3,7 +3,11 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
         <h1>Diplomados</h1>
-        <p class="lead">Diplomados y asesorias, informacion relevante.</p>
+        <p class="lead">
+            Diplomados y asesorias, informacion relevante sobre los cursos que se imparten en NetSystem, con nuestros 
+            cursos lograremos que nuestros alumnos se conviertan en profesionales aptos y capaces de superar cualquier problema
+            que se les presente en el dia a dia en el ambito laboral en que se desarrollen.
+        </p>
     </div>
     <div class="bs-docs-section">
         <div class="page-header">
@@ -16,7 +20,7 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2>Office 2016</h2>
+                    <h2 class="text-primary">Office 2016</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -28,16 +32,16 @@
                                 brinde soluciones a problemas del sector productivo en donde se desempeñe.
                             </p>
                         </div>
-                        <div class="col-md-3">
-                            <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
-                            <p><strong>Duracion</strong>: 140 hrs.</p>
-                            <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                        <div class="col-md-4">
+                            <h5><strong class="text-info">Precio</strong>: $6,800 M.N. + IVA</h5>
+                            <h5><strong class="text-info">Duracion</strong>: 140 hrs.</h5>
+                            <h5><strong class="text-info">Modalidad</strong>: Presencial y Virtual</h5>
                         </div>
                     </div>
                     <div class="row">
-                        <h3>Temario</h3>
+                        <h3 class="text-primary">Temario</h3>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Microsoft Excel</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Microsoft Excel</strong></h4>
                             <ul>
                                 <li>Trabajar con datos</li>
                                 <li>Fórmulas</li>
@@ -53,7 +57,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Microsoft Word</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Microsoft Word</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de word</li>
                                 <li>Características básicas de los documentos</li>
@@ -71,7 +75,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Microsoft PowerPoint</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Microsoft PowerPoint</strong></h4>
                             <ul>
                                 <li>Elementos esenciales de porwerpoint</li>
                                 <li>Características básicas de las presentaciones</li>
@@ -85,7 +89,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Microsoft Outlook</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Microsoft Outlook</strong></h4>
                             <ul>
                                 <li>Repaso de aspectos básicos del correo electrónico</li>
                                 <li>Herramientas de correo</li>
@@ -109,14 +113,14 @@
         <div class="workshop-right">
             <article>
                 <div class="container">
-                    <h2>Programacion con JAVA</h2>
+                    <h2 class="text-primary">Programacion con JAVA</h2>
                     <div class="row">
                         <div class="col-md-3">
-                            <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
-                            <p><strong>Duracion</strong>: 140 hrs.</p>
-                            <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                            <h5><strong class="text-info">Precio</strong>: $6,800 M.N. + IVA</h5>
+                            <h5><strong class="text-info">Duracion</strong>: 140 hrs.</h5>
+                            <h5><strong class="text-info">Modalidad</strong>: Presencial y Virtual</h5>
                         </div>
-                        <div class="col-md-8 col-md-offset-1">
+                        <div class="col-md-8">
                             <p>
                                 Al finalizar el curso conocerás:<br />
                                 Cómo instalar y trabajar con el entorno el desarrollo de aplicaciones en Java como también los elementos 
@@ -128,9 +132,9 @@
                         </div>
                     </div>
                     <div class="row workshop-left">
-                        <h3>Temario</h3>
+                        <h3 class="text-primary">Temario</h3>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Java SE</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Java SE</strong></h4>
                             <ul>
                                 <li>Introducción</li>
                                 <li>Conceptos de Programación</li>
@@ -163,7 +167,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header">&nbsp</h4>
+                            <h4 class="page-header text-warning">&nbsp</h4>
                             <ul>
                                 <li>Encapsulamiento: Necesidad del encapsulamiento</li>
                                 <li>El recolector de basura (Destrucción de un objeto)</li>
@@ -196,7 +200,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header"><strong>Java EE</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Java EE</strong></h4>
                             <ul>
                                 <li>Introducción al curso</li>
                                 <li>Componentes de una aplicación Web</li>
@@ -218,7 +222,7 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4 class="page-header">&nbsp</h4>
+                            <h4 class="page-header text-warning">&nbsp</h4>
                             <ul>
                                 <li>Login/Logout</li>
                                 <li>Control de sesión con filtros</li>
@@ -247,7 +251,7 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2>Administracion de Servidores Web</h2>
+                    <h2 class="text-primary">Administracion de Servidores Web</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -259,15 +263,15 @@
                             </p>
                         </div>
                         <div class="col-md-3">
-                            <p><strong>Precio</strong>: $6,800 M.N. + IVA</p>
-                            <p><strong>Duracion</strong>: 140 hrs.</p>
-                            <p><strong>Modalidad</strong>: Presencial y Virtual</p>
+                            <h5><strong class="text-info">Precio</strong>: $6,800 M.N. + IVA</h5>
+                            <h5><strong class="text-info">Duracion</strong>: 140 hrs.</h5>
+                            <h5><strong class="text-info">Modalidad</strong>: Presencial y Virtual</h5>
                         </div>
                     </div>
                     <div class="row">
-                        <h3>Temario</h3>
+                        <h3 class="text-primary">Temario</h3>
                         <div class="col-md-4">
-                            <h4 class="page-header"><strong>Módulo 1</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Módulo 1</strong></h4>
                             <ul>
                                 <li>Introducción</li>
                                 <li>Herramientas a emplear</li>
@@ -282,7 +286,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <h4 class="page-header"><strong>Módulo 2</strong></h4>
+                            <h4 class="page-header text-warning"><strong>Módulo 2</strong></h4>
                             <ul>
                                 <li>Elegir el tipo de servidor: servidor administrado vs servidor no administrado</li>
                                 <li>Elegir el tipo de servidor: discos duros de los servidores</li>

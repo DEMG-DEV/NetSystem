@@ -29,16 +29,16 @@
             <script type="text/javascript" src="Content/engine2/script.js"></script>
             <!-- End WOWSlider.com BODY section -->
         </div>
-        <h1>Net-System</h1>
+        <%--<h1>Net-System</h1>
         <p class="lead">
             Aqui va toda la informacion relevenate de la empresa, posiblemente valla un slider con algunas imagenes promocionales
             de nuestros productos e imagenes con promociones para el cliente.
-        </p>
+        </p>--%>
     </div>
 
     <div class="row">
         <div class="col-md-3">
-            <h2 class="page-header">Nosotros</h2>
+            <h2 class="page-header text-primary">Nosotros</h2>
             <p class="default-nmvo">
                 Somos una empresa desarrollada para brindar un servicio enfocado en el área de las 
                 tecnologías de la información, dentro de nuestras principales actividades están: 
@@ -50,7 +50,7 @@
             </p>--%>
         </div>
         <div class="col-md-3">
-            <h2 class="page-header">Misión</h2>
+            <h2 class="page-header text-primary">Misión</h2>
             <p class="default-nmvo">
                 Brindar servicios y soluciones tecnológicamente avanzadas a nuestros 
                 clientes en el ámbito de TI, garantizando la solución completa y eficiente 
@@ -61,7 +61,7 @@
             </p>--%>
         </div>
         <div class="col-md-3">
-            <h2 class="page-header">Visión</h2>
+            <h2 class="page-header text-primary">Visión</h2>
             <p class="default-nmvo">
                 Posicionar como líderes en cada uno de nuestros servicios, y con el tiempo ir expandiendo 
                 nuestros servicios en nuevas regiones.
@@ -71,7 +71,7 @@
             </p>--%>
         </div>
         <div class="col-md-3">
-            <h2 class="page-header">Objetivos</h2>
+            <h2 class="page-header text-primary">Objetivos</h2>
             <p class="default-nmvo">
                 Proveer soluciones de software apoyados en tecnologías en constante evolución, 
                 en todas las áreas demandantes de desarrollo informático inteligente aplicado a la 
