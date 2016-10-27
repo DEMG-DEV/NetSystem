@@ -13,12 +13,30 @@ namespace NetSystem {
     public partial class Contact {
         
         /// <summary>
-        /// gMap control.
+        /// inputEmail control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Subgurim.Controles.GMap gMap;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText inputEmail;
+        
+        /// <summary>
+        /// textArea control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlTextArea textArea;
+        
+        /// <summary>
+        /// Button2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button2;
     }
 }
