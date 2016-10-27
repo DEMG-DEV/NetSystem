@@ -32,9 +32,10 @@
             <script type="text/javascript" src="Content/engine2/script.js"></script>
             <!-- End WOWSlider.com BODY section -->
         </div>
-        <h1 class="text-primary">Desarrollo</h1>
+        <%--<h1>Desarrollo</h1>--%>
         <p class="lead">
-            con el desarrollo  logramos dar solución, organización y publicidad a las empresas ya establecidas y aun 
+            <br />
+            Con el desarrollo  logramos dar solución, organización y publicidad a las empresas ya establecidas y aun 
             mas a las que están en proceso brindando un servicio web, móvil, y desktop abarcando las áreas de comunicacion 
             y dando a conocer tu empresa.
         </p>

@@ -2,8 +2,9 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
-        <h1>Diplomados</h1>
+        <%--<h1>Diplomados</h1>--%>
         <p class="lead">
+            <br />
             Diplomados y asesorías, información relevante sobre los cursos que se imparten en Net System, con nuestros 
             curso se lograra que nuestros alumnos se conviertan en profesionales capaces de superar cualquier problema
             que se les presente en el día a día en el ámbito laboral en que se desarrollen.
