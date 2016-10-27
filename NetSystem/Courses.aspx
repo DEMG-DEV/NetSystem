@@ -20,7 +20,7 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2 class="text-primary">Office 2016</h2>
+                    <h2 class="text-primary page-header">Office 2016</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -113,9 +113,9 @@
         <div class="workshop-right">
             <article>
                 <div class="container">
-                    <h2 class="text-primary">Programacion con JAVA</h2>
+                    <h2 class="text-primary page-header">Programacion con JAVA</h2>
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <h5><strong class="text-info">Precio</strong>: $6,800 M.N. + IVA</h5>
                             <h5><strong class="text-info">Duracion</strong>: 140 hrs.</h5>
                             <h5><strong class="text-info">Modalidad</strong>: Presencial y Virtual</h5>
@@ -251,7 +251,7 @@
         <div class="workshop-left">
             <article>
                 <div class="container">
-                    <h2 class="text-primary">Administracion de Servidores Web</h2>
+                    <h2 class="text-primary page-header">Administracion de Servidores Web</h2>
                     <div class="row">
                         <div class="col-md-8">
                             <p>
@@ -262,7 +262,7 @@
                             También a resolver los problemas más comunes de los servidores web que se administre.
                             </p>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <h5><strong class="text-info">Precio</strong>: $6,800 M.N. + IVA</h5>
                             <h5><strong class="text-info">Duracion</strong>: 140 hrs.</h5>
                             <h5><strong class="text-info">Modalidad</strong>: Presencial y Virtual</h5>
