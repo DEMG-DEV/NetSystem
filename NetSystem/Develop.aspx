@@ -214,7 +214,7 @@
                     Proyecto realizado como parte de servicio social de los inicios de nuestra empresa en parte de la formacion
                     academica de la mesa directiva de NetSystem.
                 </p>
-                <p><a class="btn btn-primary" href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.sistemastorreon.uadec.mx%2Fsistemas%2F&h=jAQHdfr71" target="_blank" role="button">Más Información &raquo;</a></p>
+                <p><a class="btn btn-primary" href="http://www.sistemastorreon.uadec.mx/sistemas/" target="_blank" role="button">Más Información &raquo;</a></p>
             </div>
             <div class="col-md-3">
                 <img class="img-circle" src="images/p2.png" alt="Generic placeholder image" width="140" height="140">
@@ -233,7 +233,7 @@
                     la palma de tu mano. Enfocada principalmente en los niños que quieren practicar el uso de las matemáticas mas a 
                     fondo en un modo de competencia.
                 </p>
-                <p><a class="btn btn-primary" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.hmss.MathTlon&h=jAQHdfr71" target="_blank" role="button">Más Información &raquo;</a></p>
+                <p><a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.hmss.MathTlon" target="_blank" role="button">Más Información &raquo;</a></p>
             </div>
             <div class="col-md-3">
                 <img class="img-circle" src="images/p4.png" alt="Generic placeholder image" width="140" height="140">
@@ -242,7 +242,7 @@
                     Punto de venta que puede ser utilizado por pequeñas, medianas y grandes empresas, esta preparado para gestionar altamente 
                     desde inventarios hasta ventas en diferentes categorias.
                 </p>
-                <p><a class="btn btn-primary" href="#" role="button">Más Información &raquo;</a></p>
+                <p><a class="btn btn-primary" href="Contact.aspx" role="button">Más Información &raquo;</a></p>
             </div>
         </div>
     </div>

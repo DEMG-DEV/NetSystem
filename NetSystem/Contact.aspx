@@ -28,11 +28,18 @@
         </div>
     </div>
     <div class="row">
+        <a name="#contacto"></a>
         <div class="col-lg-6">
             <div class="well bs-component">
                 <form class="form-horizontal">
                     <fieldset>
                         <legend class="text-primary">Contacto:</legend>
+                        <div class="form-group">
+                            <label for="textName" class="col-lg-2 control-label">Nombre</label>
+                            <div class="col-lg-10">
+                                <input type="text" class="form-control" id="textName" placeholder="Nombre" runat="server">
+                            </div>
+                        </div>
                         <div class="form-group">
                             <label for="inputEmail" class="col-lg-2 control-label">Email</label>
                             <div class="col-lg-10">
@@ -45,7 +52,7 @@
                             <div class="col-lg-10">
                                 <textarea class="form-control" rows="3" id="textArea" runat="server"></textarea>
                                 <%--<asp:TextBox ID="TextBox2" runat="server" CssClass="form-control" Rows="3"></asp:TextBox>--%>
-                                <span class="help-block">El mensaje se mandara a nuestros correos, esperamos atenderle lo mas rápido posible.</span>
+                                <span class="help-block">Su mensaje se mandara a nuestros sistema, esperamos atenderle lo mas rápido posible.</span>
                             </div>
                         </div>
                         <div class="form-group">
