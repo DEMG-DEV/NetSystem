@@ -28,7 +28,6 @@
         </div>
     </div>
     <div class="row">
-        <a name="#contacto"></a>
         <div class="col-lg-6">
             <div class="well bs-component">
                 <form class="form-horizontal">

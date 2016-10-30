@@ -3,6 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
         <%--<h1>Diplomados</h1>--%>
+        <img src="images/slider_cursos.png" width="1050" />
         <p class="lead">
             <br />
             Diplomados y asesorías, información relevante sobre los cursos que se imparten en Net System, con nuestros 

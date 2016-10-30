@@ -176,6 +176,7 @@
     <Content Include="images\p2.png" />
     <Content Include="images\p3.png" />
     <Content Include="images\p4.png" />
+    <Content Include="images\slider_cursos.png" />
     <Content Include="logo.ico" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
