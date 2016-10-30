@@ -3,7 +3,36 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
         <%--<h1>Diplomados</h1>--%>
-        <img src="images/slider_cursos.png" width="1050" />
+        <div>
+            <!-- Start WOWSlider.com BODY section -->
+            <div id="wowslider-container1">
+                <div class="ws_images">
+                    <ul>
+                        <li>
+                            <img src="Content/data3/images/slider1_cursos.png" alt="Curso tecnologias Office" title="Curso tecnologias Office" id="wows1_0" /></li>
+                        <li>
+                            <img src="Content/data3/images/fondo1.png" alt="image carousel" title="Curso de Programación" id="wows1_1" /></li>
+                        <li>
+                            <img src="Content/data3/images/fondo2.png" alt="Curso de Administracion de Servidores WEB" title="Curso de Administracion de Servidores WEB" id="wows1_2" /></li>
+                    </ul>
+                </div>
+                <div class="ws_bullets">
+                    <div>
+                        <a href="#" title="Curso tecnologias Office"><span>
+                            <img src="Content/data3/tooltips/slider1_cursos.png" alt="Curso tecnologias Office" />1</span></a>
+                        <a href="#" title="Curso de Programación"><span>
+                            <img src="Content/data3/tooltips/fondo1.png" alt="Curso de Programación" />2</span></a>
+                        <a href="#" title="Curso de Administracion de Servidores WEB"><span>
+                            <img src="Content/data3/tooltips/fondo2.png" alt="Curso de Administracion de Servidores WEB" />3</span></a>
+                    </div>
+                </div>
+                <%--<div class="ws_script" style="position: absolute; left: -99%"><a href="http://wowslider.com">slider bootstrap</a> by WOWSlider.com v8.0</div>--%>
+                <div class="ws_shadow"></div>
+            </div>
+            <script type="text/javascript" src="Content/engine2/wowslider.js"></script>
+            <script type="text/javascript" src="Content/engine2/script.js"></script>
+            <!-- End WOWSlider.com BODY section -->
+        </div>
         <p class="lead">
             <br />
             Diplomados y asesorías, información relevante sobre los cursos que se imparten en Net System, con nuestros 

@@ -149,6 +149,12 @@
     <Content Include="Content\data2\images\slider22n.png" />
     <Content Include="Content\data2\tooltips\formato_promocion_navidea.png" />
     <Content Include="Content\data2\tooltips\slider22n.png" />
+    <Content Include="Content\data3\images\fondo1.png" />
+    <Content Include="Content\data3\images\fondo2.png" />
+    <Content Include="Content\data3\images\slider1_cursos.png" />
+    <Content Include="Content\data3\tooltips\fondo1.png" />
+    <Content Include="Content\data3\tooltips\fondo2.png" />
+    <Content Include="Content\data3\tooltips\slider1_cursos.png" />
     <Content Include="Content\engine2\jquery.js" />
     <Content Include="Content\engine2\script.js" />
     <Content Include="Content\engine2\style.css" />
