@@ -83,6 +83,7 @@
                         <li><a runat="server" href="https://www.facebook.com/NETSYSTEMCorporative/?ref=bookmarks" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
                         <li><a runat="server" href="https://twitter.com/netsystem_corp" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
                         <li><a runat="server" href="https://plus.google.com/u/0/105149450830495069695" target="_blank"><i class="fa fa-google-plus fa-2x"></i></a></li>
+                        <li><a runat="server" href="https://www.youtube.com/channel/UCVdC6aUaQPW7SqvUHLDe3nQ" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
