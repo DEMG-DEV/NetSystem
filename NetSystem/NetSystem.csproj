@@ -165,6 +165,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Courses.aspx" />
     <Content Include="Develop.aspx" />
+    <Content Include="Direccion.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -175,6 +176,7 @@
     <Content Include="Content\engine2\ws-ctrl-material.eot" />
     <Content Include="Content\engine2\ws-ctrl-material.ttf" />
     <Content Include="Content\engine2\ws-ctrl-material.woff" />
+    <None Include="Properties\PublishProfiles\NettSystem %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\NettSystem.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="images\logo.png" />
@@ -183,6 +185,10 @@
     <Content Include="images\p3.png" />
     <Content Include="images\p4.png" />
     <Content Include="images\slider_cursos.png" />
+    <Content Include="images\Tarjeta_David.png" />
+    <Content Include="images\Tarjeta_fer.png" />
+    <Content Include="images\Tarjeta_Michi.png" />
+    <Content Include="images\Tarjeta_Raul.png" />
     <Content Include="logo.ico" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
@@ -270,6 +276,13 @@
     </Compile>
     <Compile Include="Develop.aspx.designer.cs">
       <DependentUpon>Develop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Direccion.aspx.cs">
+      <DependentUpon>Direccion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Direccion.aspx.designer.cs">
+      <DependentUpon>Direccion.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
