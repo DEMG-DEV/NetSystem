@@ -44,10 +44,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="GMaps, Version=4.1.0.6, Culture=neutral, PublicKeyToken=564d55b144e7aa5a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Subgurim.Maps.4.1.0.6\lib\net20\GMaps.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
       <Private>True</Private>
@@ -179,16 +175,16 @@
     <None Include="Properties\PublishProfiles\NettSystem %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\NettSystem.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="images\David.png" />
+    <Content Include="images\Fer.png" />
     <Content Include="images\logo.png" />
+    <Content Include="images\michi.png" />
     <Content Include="images\p1.png" />
     <Content Include="images\p2.png" />
     <Content Include="images\p3.png" />
     <Content Include="images\p4.png" />
+    <Content Include="images\Raul.png" />
     <Content Include="images\slider_cursos.png" />
-    <Content Include="images\Tarjeta_David.png" />
-    <Content Include="images\Tarjeta_fer.png" />
-    <Content Include="images\Tarjeta_Michi.png" />
-    <Content Include="images\Tarjeta_Raul.png" />
     <Content Include="logo.ico" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />

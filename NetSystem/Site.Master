@@ -36,6 +36,7 @@
     <!-- End WOWSlider.com HEAD section -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body>
     <form runat="server">
@@ -75,7 +76,7 @@
                 <div class="navbar-collapse collapse nav-text">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Inicio</a></li>
-                        <li><a runat="server" href="Direccion.aspx"><i class="fa fa-user-o" aria-hidden="true"></i>&nbsp;Dirección</a></li>
+                        <li><a runat="server" href="Direccion.aspx"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Dirección</a></li>
                         <li><a runat="server" href="Courses.aspx"><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;Diplomados</a></li>
                         <li><a runat="server" href="Develop.aspx"><i class="fa fa-laptop" aria-hidden="true"></i>&nbsp;Desarrollo</a></li>
                         <li><a runat="server" href="Contact.aspx"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Contacto</a></li>
