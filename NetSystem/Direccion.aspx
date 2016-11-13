@@ -14,7 +14,7 @@
                 </div>
                 <div class="panel-body">
                     <div class="col-md-4">
-                        <img src="images/Raul.png" width="150" />
+                        <img src="images/Raul.png" class="img-circle" width="150" />
                     </div>
                     <div class="col-md-offset-1 col-md-7">
                         <h4>Raúl <br />Salazar Escareño</h4>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="panel-body">
                     <div class="col-md-4">
-                        <img src="images/Fer.png" width="150" />
+                        <img src="images/Fer.png" class="img-circle" width="150" />
                     </div>
                     <div class="col-md-offset-1 col-md-7">
                         <h4>Luis Fernando <br />Herrera Facio</h4>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="panel-body">
                     <div class="col-md-4">
-                        <img src="images/David.png" width="150" height="125" />
+                        <img src="images/David.png" class="img-circle" width="160" height="130" />
                     </div>
                     <div class="col-md-offset-1 col-md-7">
                         <h4>David <br />Mendez Guardado</h4>
@@ -72,7 +72,7 @@
                         </p>
                         <p>
                             <strong>
-                                <abbr title="Facebook"><i class="fa fa-facebook"></i>:&nbsp;</abbr></strong><a href="http://www.facebook.com/hmdcu" target="_blank">www.facebook.com/hmdcu</a>
+                                <abbr title="Facebook"><i class="fa fa-facebook"></i>:&nbsp;</abbr></strong><a href="http://www.facebook.com/hmdcu" target="_blank">www.facebook.com/hmdcu</a><br />
                         </p>
                     </div>
                 </div>
@@ -85,13 +85,13 @@
                 </div>
                 <div class="panel-body">
                     <div class="col-md-4">
-                        <img src="images/michi.png" width="150" height="125" />
+                        <img src="images/michi.png" width="150" class="img-circle"/>
                     </div>
                     <div class="col-md-offset-1 col-md-7">
                         <h4>Erick Michel <br />Hernández Reyna</h4>
                         <p>
                             <strong>
-                                <abbr title="Correo"><i class="fa fa-envelope" aria-hidden="true"></i>:&nbsp;</abbr></strong><a href="mailto:michel.hdz.ns@outlook.com">lsca_raulsaes@outlook.com</a>
+                                <abbr title="Correo"><i class="fa fa-envelope" aria-hidden="true"></i>:&nbsp;</abbr></strong><a href="mailto:michel.hdz.ns@outlook.com">michel.hdz.ns@outlook.com</a>
                         </p>
                         <p>
                             <strong>
